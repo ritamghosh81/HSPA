@@ -1,0 +1,25 @@
+
+https://github.com/webtrainer-in/HSPA
+C:\Program Files\Git
+
+
+git init
+
+git remote add origin "https://github.com/ritamghosh81/HSPA.git"
+
+git pull origin master
+
+git status
+
+git add -A (-A is for all file, or git add <file>)
+
+git commit -m "comment"
+
+
+git checkout Dev (if want to chege branch)
+
+
+
+
+
+git log
